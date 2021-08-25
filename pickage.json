@@ -1,8 +1,0 @@
-{
-  "name": "popcorn-back",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": "https://github.com/Jeris-Manning/popcorn-back.git",
-  "author": "WickedGoose <the.goose.moose@gmail.com>",
-  "license": "MIT"
-}
